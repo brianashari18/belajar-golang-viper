@@ -1,0 +1,9 @@
+app:
+  name: "golang-viper"
+  version: "1.0.0"
+  author: "brian"
+
+database:
+  show_sql: true
+  host: localhost
+  port: 3306
